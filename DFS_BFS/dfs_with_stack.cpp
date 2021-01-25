@@ -19,13 +19,13 @@ int main()
     dfs();
 }
 
+// 스택에 노드 삽입시 현재 노드를 출력하여 탐색 순서 완성
 void dfs()
 {
-    int start = 1;
     // 1. 시작 노드 스택에 삽입
+    int start = 1;
     nodes.push(start);
-
-    cout << start << "-> "; // 시작 경로 출력
+    cout << start << "-> "; // 출력
 
     // 스택에 값이 남아있지 않을 때까지 반복
     while (!nodes.empty()) 
@@ -44,7 +44,7 @@ void dfs()
             {
                 // 4-1. 방문하지 않은 노드 존재시 스택에 삽입
                 nodes.push(nextNode);
-                cout << nextNode << "-> "; // 경로 추가 출력
+                cout << nextNode << "-> "; // 출력
                 break;
             }
             checker++;

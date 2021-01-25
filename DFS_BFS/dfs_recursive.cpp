@@ -22,7 +22,7 @@ void dfs(int node)
 {
     // 2. 현재 노드 방문 처리
     visited[node] = true;
-    cout << node << "-> "; // 경로로 현재 노드 추가 출력
+    cout << node << "-> "; // 탐색 순서에 현재 노드 추가 출력
 
     // 3. 현재 노드의 인접 노드 중 방문하지 않은 노드 선택
     int adjSize = graph[node].size();
