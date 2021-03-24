@@ -34,14 +34,14 @@
   
   <li>정렬
   <ul>
-    <li><a href="#">책 예제 풀이</a>, 
+    <li>책 예제 풀이, 
         <a href="https://github.com/panggin/study_algorithm/tree/main/baekjoon/sorting">백준 온라인 저지 문제풀이</a></li>
   </ul>
   </li>
   
   <li>이진 탐색
   <ul>
-    <li><a href="#">책 예제 풀이</a>, 
+    <li>책 예제 풀이, 
         <a href="https://github.com/panggin/study_algorithm/tree/main/baekjoon/binarySearch">백준 온라인 저지 문제풀이</a></li>
   </ul>
   </li>
