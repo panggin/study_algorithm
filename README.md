@@ -1,10 +1,10 @@
 # study_algorithm
 알고리즘 이론 정리 및 문제풀이 repository 입니다 :) </br>
 
-참고 책 : 이것이 취업을 위한 코딩 테스트다 with 파이썬 </br>
+책 : 이것이 취업을 위한 코딩 테스트다 with 파이썬 </br>
 문제 풀이 진행 언어 : c++
 
-알고리즘 이론 요약 정리
+알고리즘 분류
 ------------
 <ol>
   <li>그리디 알고리즘(탐욕법)
@@ -34,14 +34,14 @@
   
   <li>정렬
   <ul>
-    <li><a href="#">책 예제 풀이</a>, 
+    <li>책 예제 풀이, 
         <a href="https://github.com/panggin/study_algorithm/tree/main/baekjoon/sorting">백준 온라인 저지 문제풀이</a></li>
   </ul>
   </li>
   
   <li>이진 탐색
   <ul>
-    <li><a href="#">책 예제 풀이</a>, 
+    <li>책 예제 풀이, 
         <a href="https://github.com/panggin/study_algorithm/tree/main/baekjoon/binarySearch">백준 온라인 저지 문제풀이</a></li>
   </ul>
   </li>
