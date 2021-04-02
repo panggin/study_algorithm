@@ -23,12 +23,12 @@
   </ul>
   </li>
   
-  <li>DFS와 BFS
+  <li>그래프 탐색
   <ul>
     <li>DFS : 깊이 우선 탐색</li>
     <li>BFS : 너비 우선 탐색</li>
     <li><a href="https://github.com/panggin/study_algorithm/tree/main/DFS_BFS">책 예제 풀이</a>, 
-        <a href="#">백준 온라인 저지 문제풀이</a></li>
+        <a href="https://github.com/panggin/study_algorithm/tree/main/baekjoon/graph">백준 온라인 저지 문제풀이</a></li>
   </ul>
   </li>
   
